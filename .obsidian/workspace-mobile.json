@@ -11,9 +11,11 @@
             "id": "d80b26207bacf6ce",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "English/分类单词/自然.md"
+                "file": "English/分类单词/服饰.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/分类单词/自然.md",
+            "file": "English/分类单词/服饰.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/分类单词/自然.md",
+            "file": "English/分类单词/服饰.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English/分类单词/自然.md"
+            "file": "English/分类单词/服饰.md"
           }
         }
       }
@@ -131,9 +133,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8a3d488156d50685",
+  "active": "d80b26207bacf6ce",
   "lastOpenFiles": [
     "English/分类单词/食品.md",
+    "English/分类单词/服饰.md",
     "English/分类单词/自然.md",
     "photo/Pasted image 20240617172334.png",
     "photo/Pasted image 20240308165214.png",
@@ -167,7 +170,6 @@
     "tool/代理 - v2rayN.md",
     "07 ai/1.3.7 数据离散化.md",
     "02 arm/4.3 readelf.md",
-    "02 arm/2.1 寄存器.md",
-    "01 Arduino/1.2 STM32、ESP32、GD32.md"
+    "02 arm/2.1 寄存器.md"
   ]
 }
