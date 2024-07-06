@@ -11,10 +11,8 @@
             "id": "d80b26207bacf6ce",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "English/分类单词/食品.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/分类单词/食品.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/分类单词/食品.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "English/分类单词/食品.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -133,9 +127,14 @@
   },
   "active": "d80b26207bacf6ce",
   "lastOpenFiles": [
+    "English/分类单词/食品.md",
+    "photo/Pasted image 20240706122857.png",
+    "photo/1657524236876.jpg",
+    "photo/Pasted image 20240706123055.png",
+    "English/词组/未命名.md",
+    "English/词组",
     "English/分类单词/自然.md",
     "English/分类单词/服饰.md",
-    "English/分类单词/食品.md",
     "2024-07-06.md",
     "photo/Pasted image 20240617172334.png",
     "photo/Pasted image 20240308165214.png",
@@ -146,10 +145,7 @@
     "photo/Pasted image 20240416113754.png",
     "02 onix/002 配置开发环境.md",
     "photo/Pasted image 20240319215909.png",
-    "photo/Pasted image 20240402173037.png",
-    "photo/Pasted image 20240408143240.png",
     "05 docker/2.5 Docker-Compose，多个容器一键运行.md",
-    "photo/Pasted image 20240511202809.png",
     "07 线性代数/03.2 线性方程组解的结构.md",
     "tool/00 编程.md",
     "00 compile/1.1 gcc概述.md",
@@ -166,8 +162,6 @@
     "00 compile/3.1 cmake.md",
     "05 linux使用/设备.md",
     "07 概率论与数理统计/01.2.2 古典型概率（等可能概率）.md",
-    "tool/代理 - v2rayN.md",
-    "07 ai/1.3.7 数据离散化.md",
-    "02 arm/4.3 readelf.md"
+    "tool/代理 - v2rayN.md"
   ]
 }
