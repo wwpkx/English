@@ -13,24 +13,11 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "English/词组/时态.jpg"
-              }
-            }
-          },
-          {
-            "id": "45eab43a0d31c2ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/词组/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "English/分类单词/职业.jpg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/词组/Untitled.md",
+            "file": "English/分类单词/职业.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/词组/Untitled.md",
+            "file": "English/分类单词/职业.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English/词组/Untitled.md"
+            "file": "English/分类单词/职业.jpg"
           }
         }
       }
@@ -144,9 +131,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "45eab43a0d31c2ad",
+  "active": "8a3d488156d50685",
   "lastOpenFiles": [
     "English/词组/时态.jpg",
+    "English/分类单词/1657524272773.jpg",
     "English/词组/Untitled.md",
     "English/分类单词/1657524272761.jpg",
     "English/词根/scend 爬,上升.jpg",
@@ -161,7 +149,6 @@
     "English/词组/1657524236886.jpg",
     "English/分类单词/自然.md",
     "photo/Pasted image 20240706122857.png",
-    "photo/1657524236876.jpg",
     "English/词组/未命名.md",
     "English/词组",
     "2024-07-06.md",
