@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "English/词组/1657524236876.jpg"
+                "file": "English/词组/时态.jpg"
               }
             }
           }
@@ -83,7 +83,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/词组/1657524236876.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +99,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/词组/1657524236876.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +109,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "English/词组/1657524236876.jpg"
-          }
+          "state": {}
         }
       }
     ],
@@ -133,11 +129,16 @@
   },
   "active": "8a3d488156d50685",
   "lastOpenFiles": [
+    "English/词根/scend 爬,上升.jpg",
+    "English/分类单词/数学.jpg",
+    "English/词组/同义词.jpg",
+    "English/词组/同义词2.jpg",
+    "English/词根",
+    "English/词组/1657524236876.jpg",
     "English/词组/时态.jpg",
     "English/分类单词/食品.md",
     "English/分类单词/服饰.md",
     "English/分类单词/自然.sync-conflict-20240706-135257-NQHS4OR.md",
-    "English/词组/1657524236876.jpg",
     "English/词组/1657524236886.jpg",
     "English/分类单词/自然.md",
     "photo/Pasted image 20240706122857.png",
@@ -147,9 +148,6 @@
     "English/词组",
     "2024-07-06.md",
     "photo/Pasted image 20240617172334.png",
-    "photo/Pasted image 20240308165214.png",
-    "photo/Pasted image 20230529180229.png",
-    "photo/Pasted image 20221101121716.png",
     "07 高等数学/04 导数/02.4.1 全微分.md",
     "02 onix/002 配置开发环境.md",
     "05 docker/2.5 Docker-Compose，多个容器一键运行.md",
