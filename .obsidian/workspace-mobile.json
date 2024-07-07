@@ -131,24 +131,26 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8a3d488156d50685",
+  "active": "d80b26207bacf6ce",
   "lastOpenFiles": [
+    "English/分类单词/1657524272856.jpg",
+    "English/分类单词/1657524272863.jpg",
+    "English/分类单词/职业.jpg",
+    "English/分类单词/自然.md",
+    "English/分类单词/数学.jpg",
+    "English/分类单词/水果.md",
+    "English/分类单词/食品.md",
+    "English/分类单词/服饰.md",
     "English/词组/时态.jpg",
     "English/分类单词/1657524272773.jpg",
     "English/词组/Untitled.md",
     "English/分类单词/1657524272761.jpg",
     "English/词根/scend 爬,上升.jpg",
-    "English/分类单词/数学.jpg",
     "English/词组/同义词.jpg",
     "English/词组/同义词2.jpg",
     "English/词根",
     "English/词组/1657524236876.jpg",
-    "English/分类单词/食品.md",
-    "English/分类单词/服饰.md",
     "English/分类单词/自然.sync-conflict-20240706-135257-NQHS4OR.md",
-    "English/词组/1657524236886.jpg",
-    "English/分类单词/自然.md",
-    "photo/Pasted image 20240706122857.png",
     "English/词组/未命名.md",
     "English/词组",
     "2024-07-06.md",
@@ -168,7 +170,6 @@
     "tool/文件管理器 - TC，Total Command.md",
     "07 高等数学/06 微分方程/06 微分方程.md",
     "00 test/01.2.1 Cucumber.md",
-    "00 compile/3.1 cmake.md",
-    "05 linux使用/设备.md"
+    "00 compile/3.1 cmake.md"
   ]
 }
