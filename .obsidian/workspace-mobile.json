@@ -11,10 +11,8 @@
             "id": "d80b26207bacf6ce",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "English/词根-简单2/ag=do做.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/词根-简单2/ag=do做.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/词根-简单2/ag=do做.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "English/词根-简单2/ag=do做.jpg"
-          }
+          "state": {}
         }
       }
     ],
